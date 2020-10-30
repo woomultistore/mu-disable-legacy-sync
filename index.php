@@ -1,3 +1,4 @@
+<?php
 /**
  * WooMultistore MU Disable Legacy Sync
  *
